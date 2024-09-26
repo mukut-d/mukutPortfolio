@@ -2,22 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hi there! 👋
 
-## Getting Started
+I'm thrilled to share about my computer science journey with you! 🎉.
 
-Get started by **creating a new site**.
+## About Me
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Mukutmani Das is a **Computer Science** graduate skilled in **Java**, **JavaScript**, **React**, **React Native**, and the **MERN** stack. Experienced in building mobile apps during an internship and developing web projects in college. Interned at **Silversky Technology** as **Software Developer** from January 2024 to August 2024.
 
-### What you'll need
+Currently I've **5600** followers in LinkedIn, checkout my profile here **[LinkedIn](https://www.linkedin.com/in/mukut-das/)**.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Target Audience
 
-## Generate a new site
+The target audience includes recruiters, hiring managers, tech professionals and enthusiasts seeking a skilled **Front-End Developer** with expertise in React, React Native, and the MERN stack. The portfolio also appeals to potential employers and collaborators looking for proficiency in building mobile and web applications, with a focus on modern **JavaScript** frameworks and clean, efficient code. It is tailored to showcase technical projects, problem-solving abilities, and practical experience gained through internships and personal development.
+
+## About Projects Section
 
 Generate a new Docusaurus site using the **classic template**.
 

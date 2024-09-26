@@ -86,7 +86,7 @@ const config = {
             position: "left",
             label: "Projects",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/mukut-d",
             label: "GitHub",
@@ -101,8 +101,12 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Portfolio",
+                to: "/portfolio/intro",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/mukut-das/",
               },
             ],
           },
@@ -126,8 +130,10 @@ const config = {
           {
             title: "More",
             items: [
-              {label:'Resume',
-            href:'https://drive.google.com/file/d/1aTEqTYIP1QgjIHqpko5QY4EEE4xiHOoJ/view?usp=sharing'},
+              {
+                label: "Resume",
+                href: "https://drive.google.com/file/d/1aTEqTYIP1QgjIHqpko5QY4EEE4xiHOoJ/view?usp=sharing",
+              },
               {
                 label: "GeekForGeeks",
                 href: "https://www.geeksforgeeks.org/user/mukutmdas2000/",
