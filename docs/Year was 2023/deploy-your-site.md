@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Deploy your site
 
+**Okay, this is not related to portfolio, still you should know how to deploy your sites , So learn it from here!**
+
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
 It builds your site as simple **static HTML, JavaScript and CSS files**.

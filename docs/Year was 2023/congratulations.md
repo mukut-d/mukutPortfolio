@@ -4,7 +4,9 @@ sidebar_position: 6
 
 # Congratulations!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+You have just learned the **basics of my portfolio** and made gain some knowledge about **the things I do**.
+
+Refer below to make your your own website like i did!
 
 Docusaurus has **much more to offer**!
 

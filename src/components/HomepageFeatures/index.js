@@ -6,28 +6,20 @@ const FeatureList = [
   {
     title: "Core Programming Language",
     Svg: require("../../../static/img/java.png").default,
-    description: (
-      <>
-       Used Java for OOP, DSA, and projects in college.
-      </>
-    ),
+    description: <>Used Java for OOP, DSA, and assignments in college.</>,
   },
   {
     title: "Primary Dev Language",
     Svg: require("../../../static/img/js.png").default,
     description: (
-      <>
-        Used JavaScript for React, MERN stack, and college projects.
-      </>
+      <>Used JavaScript for React, MERN stack, and college projects.</>
     ),
   },
   {
     title: "Also Used",
     Svg: require("../../../static/img/atom.png").default,
     description: (
-      <>
-       Used React Native in internship to build multiple mobile apps.
-      </>
+      <>Used React Native in internship to build multiple mobile apps.</>
     ),
   },
 ];

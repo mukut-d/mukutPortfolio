@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Mukut's Portfolio",
-  tagline: "Currently playing The Ghost of Tsushima",
+  tagline: "Completed playing The Ghost of Tsushima",
   favicon: "img/atomic.png",
 
   // Set the production url of your site here
@@ -98,15 +98,20 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Profiles",
             items: [
               {
-                label: "Portfolio",
-                to: "/portfolio/intro",
+                label: "Reach Me",
+                // to: "/portfolio/intro",
+                href:'mailto:mukut.m.das2000@gmail.com'
               },
               {
                 label: "LinkedIn",
                 href: "https://www.linkedin.com/in/mukut-das/",
+              },
+              {
+                label: "FreeCodeCamp",
+                href: "https://www.freecodecamp.org/mukut-d",
               },
             ],
           },
